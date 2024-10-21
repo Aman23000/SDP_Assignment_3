@@ -1,0 +1,7 @@
+edu/bu/met/cs665/Main.class
+edu/bu/met/cs665/models/CorporateClient.class
+edu/bu/met/cs665/models/EliteMember.class
+edu/bu/met/cs665/models/LoyalCustomer.class
+edu/bu/met/cs665/models/EmailTemplateBase.class
+edu/bu/met/cs665/models/ProspectiveCustomer.class
+edu/bu/met/cs665/models/ReturningClient.class
